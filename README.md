@@ -1,2 +1,5 @@
 # hello-world
-MyFirstGitHubRepo
+
+Hi All!
+
+This is MyFirstGitHubRepo, just created.
